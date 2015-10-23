@@ -243,7 +243,7 @@ public class Main extends Activity implements OnClickListener
 				@Override
 				public View getView(int position, View convertView, ViewGroup parent)
 					{
-						Log.d(tag, "getView ...");
+						Log.d(tag, "getView awesime appp ...");
 						View row = convertView;
 						if (row == null)
 							{
